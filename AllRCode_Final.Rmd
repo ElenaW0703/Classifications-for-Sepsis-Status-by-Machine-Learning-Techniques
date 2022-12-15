@@ -1,6 +1,6 @@
 ---
 title: "Sepsis Detection Final Project"
-author: "Elena Wang, Songyun Zhang, Zhen Liu"
+author: "Elena Wang (Team Leader), Songyun Zhang, Zhen Liu"
 date: "11/29/2022"
 output:
   html_document:
